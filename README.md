@@ -13,6 +13,23 @@ This repo contains code that reproduces the figures from "**Optimal packing of a
 
 All code for reproducing the figures is in one self-contained Python notebook that uses only standard libraries (NumPy and Matplotlib).
 
+The final figures, which are constructed from the components generated in this notebook, are as follows:
+
+**Figure 1.** "Schematic of optimal packing problem"
+
+<p align="center">
+<img src="finalfigs/fig1_general.png" width="600"/></p>
+
+**Figure 2.** "Solution of packing problem for a Markov chain with a uniform topology"
+
+<p align="center">
+<img src="finalfigs/fig2_uniform_fixed.png" width="600"/></p>
+
+**Figure 3.** "Solution of packing problem for a Markov chain with a square topology"
+
+<p align="center">
+<img src="finalfigs/fig3_square.png" width="600"/></p>
+
 ## Citation
 
 ```bibtex
